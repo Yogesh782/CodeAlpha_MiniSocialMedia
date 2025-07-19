@@ -1,0 +1,2 @@
+<?php
+// jhalak/comment.php

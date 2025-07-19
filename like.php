@@ -1,0 +1,2 @@
+<?php
+// jhalak/like.php
